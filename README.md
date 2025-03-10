@@ -1,6 +1,6 @@
 # About
 
-This repository conatiain WEB-140 assigments and project files for the 2025 spring sementser.
+This repository contains  WEB140's assigment and project files for the Web and UX design 2025 spring sementser.
 
 ## Assigments and porjects:
 
